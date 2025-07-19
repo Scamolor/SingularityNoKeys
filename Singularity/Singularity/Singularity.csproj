@@ -89,7 +89,6 @@
     <Compile Include="Utils.cs" />
     <Compile Include="SingularityObject.cs" />
     <Compile Include="SingularityCenteredCubeMap.cs" />
-    <Compile Include="SingularityUI.cs" />
     <Compile Include="ScaledSceneBufferRenderer.cs" />
     <Compile Include="SceneRendererHook.cs" />
     <Compile Include="StackedLensingRenderer.cs" />
